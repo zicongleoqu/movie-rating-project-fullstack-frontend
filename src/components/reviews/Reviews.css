@@ -1,0 +1,15 @@
+.ReviewBody {
+    color: darkturquoise;
+}
+
+.ReviewQuestion {
+    color: darkgoldenrod;
+}
+
+.ReviewBanner {
+    position: relative;
+    height: 60px;
+    top: 20px;
+    color : darkgoldenrod;
+    vertical-align : middle;
+}
